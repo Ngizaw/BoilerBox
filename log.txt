@@ -1,0 +1,2 @@
+v1.0: Control LED strips through bluetooth
+v2.0: Add Bluetooth Audio here
